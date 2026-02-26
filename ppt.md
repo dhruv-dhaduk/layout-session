@@ -11,7 +11,7 @@ This will be divided into two parts
 - How does web technologies work. 
 
 # Part 2 - Applying it live
-- Building a Twitter clone live
+- Building a layout live
 - We will take the decisions along the way
 
 <!-- end_slide -->
@@ -82,5 +82,4 @@ We will be focusing on the one that controls structure.
 Let's go hands on.
 ===
 
-# Let's build a Twitter Clone
-- https://x-skeleton-ui.netlify.app/
+# Let's build a real layout live.
